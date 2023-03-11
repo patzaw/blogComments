@@ -1,2 +1,2 @@
-# genodesyComments
-Comments on GENODESY blog posts
+# blogComments
+Comments on blog posts
